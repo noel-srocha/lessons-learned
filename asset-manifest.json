@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lessons-learned/static/css/main.0297cc6a.chunk.css",
+    "main.js": "/lessons-learned/static/js/main.a6b76fb6.chunk.js",
+    "main.js.map": "/lessons-learned/static/js/main.a6b76fb6.chunk.js.map",
+    "runtime-main.js": "/lessons-learned/static/js/runtime-main.66a7ee25.js",
+    "runtime-main.js.map": "/lessons-learned/static/js/runtime-main.66a7ee25.js.map",
+    "static/js/2.a20f320d.chunk.js": "/lessons-learned/static/js/2.a20f320d.chunk.js",
+    "static/js/2.a20f320d.chunk.js.map": "/lessons-learned/static/js/2.a20f320d.chunk.js.map",
+    "index.html": "/lessons-learned/index.html",
+    "static/css/main.0297cc6a.chunk.css.map": "/lessons-learned/static/css/main.0297cc6a.chunk.css.map",
+    "static/js/2.a20f320d.chunk.js.LICENSE.txt": "/lessons-learned/static/js/2.a20f320d.chunk.js.LICENSE.txt",
+    "static/media/future_me.bcf7a4c1.jpg": "/lessons-learned/static/media/future_me.bcf7a4c1.jpg",
+    "static/media/profile.91a634af.jpeg": "/lessons-learned/static/media/profile.91a634af.jpeg",
+    "static/media/react_snapshot.0648d164.jpg": "/lessons-learned/static/media/react_snapshot.0648d164.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a7ee25.js",
+    "static/js/2.a20f320d.chunk.js",
+    "static/css/main.0297cc6a.chunk.css",
+    "static/js/main.a6b76fb6.chunk.js"
+  ]
+}
